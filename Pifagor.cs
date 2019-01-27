@@ -11,7 +11,7 @@ namespace Pifagore
             int x = Convert.ToInt32(Console.ReadLine());
             Console.Write("Введите Y:");
             int y = Convert.ToInt32(Console.ReadLine());
-            if (x>=0 & y>=0)
+            if (x>0 & y>0)
             {
                 for (int m = 1; m <= y; m++)
                 {
