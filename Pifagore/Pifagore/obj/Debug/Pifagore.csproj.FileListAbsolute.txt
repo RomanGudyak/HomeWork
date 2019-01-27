@@ -1,0 +1,7 @@
+C:\Users\wolfm\source\repos\Pifagore\Pifagore\bin\Debug\Pifagore.exe.config
+C:\Users\wolfm\source\repos\Pifagore\Pifagore\bin\Debug\Pifagore.exe
+C:\Users\wolfm\source\repos\Pifagore\Pifagore\bin\Debug\Pifagore.pdb
+C:\Users\wolfm\source\repos\Pifagore\Pifagore\obj\Debug\Pifagore.csprojAssemblyReference.cache
+C:\Users\wolfm\source\repos\Pifagore\Pifagore\obj\Debug\Pifagore.csproj.CoreCompileInputs.cache
+C:\Users\wolfm\source\repos\Pifagore\Pifagore\obj\Debug\Pifagore.exe
+C:\Users\wolfm\source\repos\Pifagore\Pifagore\obj\Debug\Pifagore.pdb

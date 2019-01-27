@@ -1,0 +1,6 @@
+C:\Users\wolfm\source\repos\Math\Math\bin\Debug\Math.exe.config
+C:\Users\wolfm\source\repos\Math\Math\bin\Debug\Math.exe
+C:\Users\wolfm\source\repos\Math\Math\bin\Debug\Math.pdb
+C:\Users\wolfm\source\repos\Math\Math\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\wolfm\source\repos\Math\Math\obj\Debug\Math.exe
+C:\Users\wolfm\source\repos\Math\Math\obj\Debug\Math.pdb
