@@ -1,0 +1,7 @@
+C:\Users\wolfm\source\repos\A_DoG\A_DoG\bin\Debug\A_DoG.exe.config
+C:\Users\wolfm\source\repos\A_DoG\A_DoG\bin\Debug\A_DoG.exe
+C:\Users\wolfm\source\repos\A_DoG\A_DoG\bin\Debug\A_DoG.pdb
+C:\Users\wolfm\source\repos\A_DoG\A_DoG\obj\Debug\A_DoG.csprojAssemblyReference.cache
+C:\Users\wolfm\source\repos\A_DoG\A_DoG\obj\Debug\A_DoG.csproj.CoreCompileInputs.cache
+C:\Users\wolfm\source\repos\A_DoG\A_DoG\obj\Debug\A_DoG.exe
+C:\Users\wolfm\source\repos\A_DoG\A_DoG\obj\Debug\A_DoG.pdb
