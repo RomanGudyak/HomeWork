@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Pifagore
 {
@@ -10,29 +6,25 @@ namespace Pifagore
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Таблица ПИФАГОРА");
-            int[] line1 = new int[9];
-            int[] line2 = new int[9];
-            string Tabl = "";
-
-            for (int i = 0; i < 9; i++)
+            Console.WriteLine("\t\t\t\tТаблица ПИФАГОРА размерностью X на У");
+            Console.Write("Введите X:");
+            int x = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Введите Y:");
+            int y = Convert.ToInt32(Console.ReadLine());
+            if (x > 0 & y > 0)
             {
-                line1[i] = i + 1;
-                line2[i] = i + 1;
-            }
-
-
-            for (int i = 0; i < line2.Length; i++)
-            {
-                for (int z = 0; z < line1.Length; z++)
+                for (int m = 1; m <= y; m++)
                 {
-                    Tabl += "\t" + line2[i] * line1[z];
+                    for (int n = 1; n <= x; n++)
+                    {
+                        int res = n * m;
+                        Console.Write("{0, 4}", res);
+                    }
+                    Console.WriteLine();
                 }
-                Tabl += "\n";
             }
-
-            Console.WriteLine(Tabl);
-
+            else
+                Console.WriteLine("Такую таблицу нам не заказывали:)");
             Console.ReadKey();
         }
     }
