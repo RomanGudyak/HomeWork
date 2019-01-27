@@ -1,7 +1,0 @@
-C:\Users\wolfm\Desktop\GitHub\HomeWork\Calc\Calc\bin\Debug\Calc.exe.config
-C:\Users\wolfm\Desktop\GitHub\HomeWork\Calc\Calc\bin\Debug\Calc.exe
-C:\Users\wolfm\Desktop\GitHub\HomeWork\Calc\Calc\bin\Debug\Calc.pdb
-C:\Users\wolfm\Desktop\GitHub\HomeWork\Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
-C:\Users\wolfm\Desktop\GitHub\HomeWork\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
-C:\Users\wolfm\Desktop\GitHub\HomeWork\Calc\Calc\obj\Debug\Calc.exe
-C:\Users\wolfm\Desktop\GitHub\HomeWork\Calc\Calc\obj\Debug\Calc.pdb
